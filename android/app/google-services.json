@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401546671334",
+    "project_id": "blogapp-887c2",
+    "storage_bucket": "blogapp-887c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401546671334:android:3a533016b2b346b1503727",
+        "android_client_info": {
+          "package_name": "com.eia.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401546671334-nskmir10mt7bjhm05k384bbltqco4mco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzaBrkvWeI5TKOTJMVQO9PQhD5nt6Qpww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401546671334-nskmir10mt7bjhm05k384bbltqco4mco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
